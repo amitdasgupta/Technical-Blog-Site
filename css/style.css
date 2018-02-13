@@ -1,0 +1,40 @@
+
+
+.fix-me{
+	float: left;
+	position: fixed;
+	top: 400px;
+}
+.button
+{
+	background-color: #333;
+	color:white;
+	padding: 10px 15px;
+	border: none;
+}
+.startimage{
+	position: relative;
+	float: left;
+	padding: 10px;
+	width: 20%;
+}
+.imagetextblock{
+	position: center;
+	padding: auto;
+	background-color: white;
+	color:black;
+}
+
+.container{
+	float: left;
+	margin: auto;
+	width: 80%;
+}
+.image_block{
+	float: center;
+	width: auto;
+}
+.sub-heading{
+	position: center;
+	text-decoration: 
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contribution Webpage</title>
+</head>
+<body>
+   <h2>Want To Contribute</h2>
+   <form action="process.php" method="POST">
+   	<div>
+   		<label>First Name</label>
+     	<input type="text" name="firsName"
+     	placeholder="Enter your first name">
+   	</div>
+   	<br>
+   	<div>
+   		<label> Last Name</label>
+   	    <input type="text" name="lastName"
+        placeholder="Enter your Last name"
+   	    >
+   	</div>
+   	<br>
+   	<div>
+   		<label> Email</label>
+   	    <input type="email" name="email"
+        placeholder="Enter your Email Id "
+   	    >
+   	</div>
+   	<br>
+   	<div>
+   		<label> Article</label>
+   	    <textarea name="Message" placeholder="Write Your Article that You want to publish"></textarea> 
+   	</div>
+   	<br>
+   	<div>
+   		<label>Gender</label>
+   		<select name="gender">
+   			<option value="male">Male</option>
+   			<option value="female">Female</option>
+   			<option value="other">Other</option>
+   		</select>
+   	</div>
+   	<br>
+   	<div>
+   		<label>Age:</label>
+   		<input type="number" name="age" value="30">
+   	</div>
+   	<br>
+   	<div>
+   		<label>Birth Date</label>
+   		<input type="date" name="birthday">
+   	</div>
+   	<input type="submit" name="submit" value="Submit">
+   </form>
+</body>
+</html>
