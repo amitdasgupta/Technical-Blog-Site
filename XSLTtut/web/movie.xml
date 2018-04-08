@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<?xml-stylesheet href="movies.xsl" type="text/xsl" ?>
+<collection>
+    <movie>
+        <title>DDLJ</title>
+        <year>1996</year>
+        <genre>Comedy</genre>
+    </movie>
+    <movie>
+        <title>DHOOM</title>
+        <year>2003</year>
+        <genre>ACTION</genre>
+    </movie>
+    <movie>
+        <title>THE SHAWSHANK REDEMPTION</title>
+        <year>1994</year>
+        <genre>DRAMA</genre>
+    </movie>
+    <movie>
+        <title>INCEPTION</title>
+        <year>2010</year>
+        <genre>SCI FI</genre>
+    </movie>
+    <movie>
+        <title>AVATAR</title>
+        <year>2009</year>
+        <genre>SCI FI</genre>
+    </movie>
+    <movie>
+        <title>COCO</title>
+        <year>2017</year>
+        <genre>ANIME</genre>
+    </movie>
+    <movie>
+        <title>TERMIANTOR 2</title>
+        <year>2017</year>
+        <genre>DRAMA</genre>
+    </movie>
+</collection>
